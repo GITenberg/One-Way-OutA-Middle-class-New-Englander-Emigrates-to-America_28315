@@ -1,0 +1,27 @@
+_repo: One-Way-OutA-Middle-class-New-Englander-Emigrates-to-America_28315
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28315-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Carleton, William
+    birthdate: 1876
+    deathdate: 1945
+    gutenberg_agent_id: '33262'
+    url: http://www.gutenberg.org/2009/agents/33262
+description: ''
+gutenberg_issued: '2009-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28315'
+  lccn: '11035154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcsh 'United States -- Social conditions -- 1865-1918'
+title: 'One Way Out: A Middle-class New-Englander Emigrates to America'
+url: http://www.gutenberg.org/ebooks/28315
