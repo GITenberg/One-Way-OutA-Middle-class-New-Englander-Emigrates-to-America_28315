@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33262'
     url: http://www.gutenberg.org/2009/agents/33262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28315#One-Way-OutA-Middle-class-New-Englander-Emigrates-to-America
 gutenberg_issued: '2009-03-12'
 gutenberg_type: Text
 identifiers:
